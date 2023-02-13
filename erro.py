@@ -1,0 +1,2 @@
+M=const
+n
